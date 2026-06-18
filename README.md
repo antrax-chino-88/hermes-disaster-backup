@@ -108,5 +108,3 @@ MIT — see [LICENSE](LICENSE).
 ## Credits
 
 - Author: [wangna](https://github.com/antrax-chino-88) (Meridian Flow)
-- Peer review: xiaohua (exhibition-intelligence skill author)
-- Target platform: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
